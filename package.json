@@ -1,0 +1,23 @@
+{
+  "name": "setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johannes-xerxes-sz/Setup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johannes-xerxes-sz/Setup/issues"
+  },
+  "homepage": "https://github.com/johannes-xerxes-sz/Setup#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
